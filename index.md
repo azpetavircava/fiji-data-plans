@@ -82,3 +82,10 @@ layout: default
 
 　　祝你在这片天堂般的岛屿，拥有一个始终在线、又无需时刻在线的完美假期！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Fiji SIM 卡购买与激活指南](https://faciylike.github.io/fiji-sim-guides)
